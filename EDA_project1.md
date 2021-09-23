@@ -28,11 +28,11 @@
 
   + What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
-  Using MTA turnstile data to provide WTWY recommendations about the best subway stations to deploy their street teams and increase the number of sign-ups for the WTWY gala. 
+    Using MTA turnstile data to provide WTWY recommendations about the best subway stations to deploy their     street teams and increase the number of sign-ups for the WTWY gala. 
 
   + Who benefits from exploring this question or building this model/system?
 
-  WTWY in the first place is the first beneficiary from this EDA, then potential women who will attend their gala and have access to their resources
+    WTWY in the first place is the first beneficiary from this EDA, then potential women who will attend their gala and have access to their resources
 
 ### Data Description
 + What dataset(s) do you plan to use, and how will you obtain the data?
