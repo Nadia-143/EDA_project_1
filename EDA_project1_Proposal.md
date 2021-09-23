@@ -50,7 +50,7 @@
 
 + How do you intend to meet the tools requirement of the project?
 
-   By using SQL, Pandas, Numpy, Seaborn, matplotlib
+   By using SQLAlchemy, Pandas, Numpy, Seaborn, matplotlib
   
 + Are you planning in advance to need or use additional tools beyond those required?
 
