@@ -1,5 +1,5 @@
 
-### project proposal template
+## project proposal template
 
 ### BackStory: 
 
