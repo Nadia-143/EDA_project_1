@@ -59,7 +59,7 @@
 ### MVP Objective:
 
    The goal of this project is to better understand which NYC MTA subway stations have the most traffic.
-   The MVP of this project is some visualizations achieveing the main goal. 
+   The MVP of this project is some visualizations achieveing the main goal..
 
 
 
