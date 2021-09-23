@@ -37,8 +37,8 @@
 ### Data Description
 + What dataset(s) do you plan to use, and how will you obtain the data?
 
-   Primarily MTA turnstile data obtained from (http://web.mta.info/developers/turnstile.html.) for the first 2 weeks of May.
-
+   Primarily MTA turnstile data obtained from (http://web.mta.info/developers/turnstile.html.) 
+   
 + What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
   ...
 
