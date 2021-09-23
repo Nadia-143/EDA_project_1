@@ -1,7 +1,7 @@
 
-## project proposal template
+### project proposal template
 
-#### BackStory: 
+### BackStory: 
 
   ```
   Vinny & Joan -
@@ -24,7 +24,7 @@
 
   WTWY International
   ```
-#### Questions/need
+### Questions/need
 
   + What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 
@@ -34,7 +34,7 @@
 
   WTWY in the first place is the first beneficiary from this EDA, then potential women who will attend their gala and have access to their resources
 
-#### Data Description
+### Data Description
 + What dataset(s) do you plan to use, and how will you obtain the data?
 
    Primarily MTA turnstile data obtained from (http://web.mta.info/developers/turnstile.html.) for the first 2 weeks of May.
@@ -46,7 +46,7 @@
 
    There is no modeling in this project! 
    
-#### Tools:
+### Tools:
 
 + How do you intend to meet the tools requirement of the project?
 
@@ -56,7 +56,7 @@
 
    Not at the moment!
   
-#### MVP Objective:
+### MVP Objective:
 
    The goal of this project is to better understand which NYC MTA subway stations have the most traffic.
    The MVP of this project is some visualizations achieveing the main goal. 
