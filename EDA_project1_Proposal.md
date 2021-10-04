@@ -40,7 +40,9 @@
    Primarily MTA turnstile data obtained from (http://web.mta.info/developers/turnstile.html.) 
    
 + What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
-  ...
+  This project was done by: 
+        Nadia ALghamdi
+        Manal AlQahtani
 
 + If modeling, what will you predict as your target? 
 
