@@ -1,4 +1,4 @@
-# MTA Turnstile Exploratory Data Analysis 
+# Exploratory Data Analysis of MTA Turnstil
 
 ## Abstract 
 
