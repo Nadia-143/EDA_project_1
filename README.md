@@ -1,5 +1,5 @@
 # Exploratory Data Analysis of MTA traffics
-
+![](/img/header.png)
 ## Abstract 
 
 The purpose of this project is to implement an exploratory data analysis on the New York subway MTA turnstile data and provide our clinet, an organization called WomenTechWomenYes(WTW) who is going to hold a summer gala and planning to allocate street teams in the entrances of the subway stations in order to maximize the number of sign-ups individuals and send them free invitations to attend their gala, with some recommendations in order to choose the optimal time and location for them to deploy their street teams; Our recommendations are based on three aspects: the top 10 busiest stations,the busiest month within our dateframe and the busiest days and time for each station among the top 10 stations. By planning our target and the way to acheive it, we retrieved the desired data from Metropolitan Transportation Authority website which is available to anyone: (http://web.mta.info/developers/turnstile.html).
